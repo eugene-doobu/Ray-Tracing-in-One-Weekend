@@ -3,6 +3,10 @@ study Ray Tracing in One Weekend series
 
 see https://github.com/RayTracing/raytracing.github.io
 
+## One Week
+
+![one week result](./result/r1w.jpg)
+
 # Source
 
 Title (series): “Ray Tracing in One Weekend Series”<br>
